@@ -1,0 +1,17 @@
+{
+  "name": "testing-with-node",
+  "version": "0.0.0-development",
+  "scripts": {
+    "test": "find ./ -type f -name \\*.spec.ts | xargs npx tsx --test --test-reporter spec"
+  },
+  "author": "Nordic Semiconductor ASA | nordicsemi.no",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "@types/node": "20.5.0",
+    "tsmatchers": "4.0.12",
+    "tsx": "3.12.7"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
