@@ -1,5 +1,7 @@
 # Setting up testing for a Node.js project
 
+[![Run tests](https://github.com/coderbyheart/testing-with-node/actions/workflows/test.yml/badge.svg)](https://github.com/coderbyheart/testing-with-node/actions/workflows/test.yml)
+
 - <https://nodejs.org/api/test.html>
 - <https://nodejs.org/api/assert.html>
 - <https://github.com/SimoneGianni/tsMatchers>
