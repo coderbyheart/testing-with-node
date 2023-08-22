@@ -9,7 +9,8 @@
   "devDependencies": {
     "@types/node": "20.5.0",
     "tsmatchers": "4.0.12",
-    "tsx": "3.12.7"
+    "tsx": "3.12.7",
+    "typescript": "5.1.6"
   },
   "engines": {
     "node": ">=20.0.0"
